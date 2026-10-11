@@ -1,0 +1,8 @@
+Origin: Dimka Repo
+Label: Dimka Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Мій репозиторій твіків
